@@ -8,6 +8,7 @@
 
 ## 💻 About
 
+Relogio pomodoro com cronogramas temporais
 
  
 ## 🛠 Tech Stack
@@ -32,7 +33,9 @@ ___
 
 ## Web 
 
-https://github.com/RobsonFeitosa/ignite-call/assets/13018367/f917018d-7461-4a7b-88e4-d0764a8f95e8
+<p align="center" margin-top="25px" >
+  <img alt="GitHub Language Count" src=".github/cover.gif" />
+</p>
 
 ___ 
 
